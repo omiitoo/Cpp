@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"name": "Visual Studio Code",
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Visual Studio Code",
+		"files.associations": {
+			"iostream": "cpp"
+		}
+	}
+}
